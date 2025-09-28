@@ -4,8 +4,7 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 4th Year IT Student at **Polytechnic University of the Philippines – Quezon City**  
-- 💡 Passionate about **UI/UX design**  
+- 🎓 4th Year IT Student at **Polytechnic University of the Philippines – Quezon City**   
 - 📩 Reach me at: altheaamor12@gmail.com
 ---
 
