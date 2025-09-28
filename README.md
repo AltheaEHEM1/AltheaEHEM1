@@ -1,5 +1,5 @@
-                                                                # Hi, I'm Althea  
-                                                                ### 💻 IT Student   
+# Hi, I'm Althea  
+### 💻 IT Student   
 
 ---
 
