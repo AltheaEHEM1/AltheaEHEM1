@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=220&section=header&text=Hi%20there,%20I'm%20Althea%20Amor!%20👋&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer&descSize=18&descAlign=50&descAlignY=62" alt="Header Banner" width="100%" />
 </p>
 
-<p align="center" style="margin-top: -15px;">
+<p align="center" style="margin-top: -20px;">
   <a href="mailto:altheaasis18@gmail.com">
     <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
   </a>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Althea%20Amor-111827?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" />
   </a>
 </p>
----
+
 
 ## 🌟 About Me
 
