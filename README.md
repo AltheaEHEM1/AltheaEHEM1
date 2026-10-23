@@ -1,19 +1,18 @@
 <div align="center">
 
 # Althea Amor J. Asis 👋
-### **Software Engineer & Frontend Developer**[cite: 1, 2]
-*Bridging code and human experience through intuitive UI/UX design, clean frontend engineering, and structured system flow charts.*[cite: 2]
+### **Software Engineer**
 
-[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)[cite: 1]
+[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)
 
 </div>
 
 ---
 
 ## 💫 About Me
-- 🎓 **Education:** Bachelor of Science in Information Technology at Polytechnic University of the Philippines - Quezon City (2022–2026)[cite: 1].
-- 🎨 **Design & Architecture:** Dedicated to crafting user-centric UI/UX design, wireframes, prototypes, and transforming complex logic into clear visual workflows and system flow charts[cite: 2].
-- ⚡ **Development:** Focused on building robust, responsive, and seamless digital applications from concept to deployment[cite: 2].
+- 🔭 **Where Design Meets Code:** As a Software Engineer & Frontend Developer, I specialize in translating complex system requirements into seamless, high-performance digital applications[cite: 2].
+- 🎨 **Creative & Structural Expertise:** Deeply passionate about UI/UX design, wireframing, prototyping, and architecting crystal-clear visual workflows and system flow charts[cite: 2].
+- 🎓 **Academic Foundation:** Pursuing a Bachelor of Science in Information Technology at the Polytechnic University of the Philippines – Quezon City (2022–2026)[cite: 1].
 
 ---
 
