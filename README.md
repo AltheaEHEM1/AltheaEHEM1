@@ -1,7 +1,21 @@
-# Hi there, I'm Althea Amor! 👋
+# <p align="center">Hi there, I'm Althea Amor! 👋</p>
 
-### Software Engineer 
-📫 **Email:** [altheaasis18@gmail.com](mailto:altheaasis18@gmail.com) | [LinkedIn](https://linkedin.com/in/althea-amor-j-asis)
+<p align="center">
+  <b>Software Engineer</b>
+</p>
+
+<p align="center">
+  <a href="mailto:altheaasis18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/althea-amor-j-asis">
+    <img src="https://img.shields.io/badge/LinkedIn-Althea%20Amor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C47FF&center=true&vcenter=true&width=500&lines=Building+reliable+%26+well-crafted+software;Combining+software+engineering+%26+UI%2FUX;Deepening+backend+%26+cybersecurity" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -45,7 +59,9 @@
   <img src="https://img.shields.io/badge/mabl-FF6C37?style=for-the-badge&logo=mabl&logoColor=white" />
 </p>
 
+
+
 ## 📫 Contact Me
 
-* **Email:** altheaasis18@gmail.com[cite: 1]
-* **LinkedIn:** [linkedin.com/in/althea-amor-j-asis](https://linkedin.com/in/althea-amor-j-asis)[cite: 1]
+* **Email:** altheaasis18@gmail.com
+* **LinkedIn:** [linkedin.com/in/althea-amor-j-asis](https://linkedin.com/in/althea-amor-j-asis)
