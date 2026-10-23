@@ -1,51 +1,27 @@
-# Hi there, I'm Althea! 👋
+<div align="center">
 
-### 💻 Software Engineer & UI/UX Designer
-*Graduated with a B.S. in Information Technology from Polytechnic University of the Philippines – Quezon City*
+# Althea Amor J. Asis[cite: 1]
+### Frontend Developer & Software Engineer[cite: 1, 2]
 
----
+[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/althea-amor-j-asis)[cite: 1]
 
-## 👩‍💻 About Me
-- 🎓 **Education:** BS in Information Technology (Batch 2026) | PUP Quezon City Campus
-- 💼 **Focus:** Building full-stack web applications, intuitive UI/UX design systems, and scalable digital solutions.
-- 🚀 **Experience:** Former Software Engineering Intern at Stratpoint Technologies & Frontend Developer / UI/UX Designer at Software Research Group (SRG 12th Gen).
-- 🤝 **Leadership:** Former VP for Research & Development @ CommITs (A.Y. 2024–2025).
-- 📩 **Contact:** [altheaasis18@gmail.com](mailto:altheaasis18@gmail.com)
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-### **Frontend & UI/UX Design**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Tools & Testing**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 👩‍🎓 Education
+* **Polytechnic University of the Philippines - Quezon City**[cite: 1]
+  * Bachelor of Science in Information Technology (2022–2026)[cite: 1]
 
 ---
 
-## ⚡ Featured Projects
-- **[Projectnify]** – A full-stack Next.js project management platform with real-time whiteboard collaboration, Kanban boards, Gantt charts, and analytics.
-- **[Blog Management System]** – Full-stack blog engine featuring article CRUD, comment moderation, advanced search, and category filtering.
-
----
-
-<p align="center">
-  <i>"Integrates solid software engineering with user-centered design to build smooth, reliable, and functional applications."</i>
-</p>
-
-make this look good
+## 🛠 Tech Stack & Skills
+* **Design & Prototyping:** Figma, Canva, Lucidchart, Draw.io[cite: 2]
+* **Web & App Development:** React, Next.js, Tailwind CSS, Bootstrap, FlutterFlow, Neon, Drizzle ORM, Clerk Authentication[cite: 2]
+* **DevOps & Environment:** Docker, Git, GitHub, GitHub Desktop[cite: 2]
+* **Project Management & Collaboration:** Jira, Notion, ClickUp[cite: 2]
+* **Testing & Quality Assurance:** Playwright, mabl[cite: 2]
+* **Productivity & Communication:** Microsoft Office, Google Workspace, Microsoft Teams, Zoom, Google Meet, Discord[cite: 2]
+* **Personal Skills:** Detail-Oriented, Organized, Collaborative, Adaptable, Flexible, Time Management[cite: 2]
+* **Interests:** Music, Sports, Gaming, Film Production[cite: 2]
