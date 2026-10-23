@@ -16,14 +16,14 @@
 ## 🌟 About Me
 
 > 🎓 **Education**
-> Graduate with a **Bachelor of Science in Information Technology** from the *Polytechnic University of the Philippines - Quezon City* (Batch 2022–2026)[cite: 1].
+> Graduate with a **Bachelor of Science in Information Technology** from the *Polytechnic University of the Philippines - Quezon City* (Batch 2022–2026).
 
 > 💻 **Expertise**
-> Software engineering background with hands-on experience as a **Software Engineer Intern** at *Stratpoint Technologies* and a **Frontend Developer** at *Software Research Group*[cite: 1]. Key core competencies include:
-> * **Frontend Developer** — Building responsive, functional web applications[cite: 1].
-> * **UI/UX Designer** — Crafting user-centered interfaces and intuitive digital experiences[cite: 2].
-> * **Prototyping** — Translating ideas and wireframes into high-fidelity interactive models[cite: 1].
-> * **Flowcharts** — Mapping complex system logic, workflows, and functional architectures[cite: 2].
+> Software engineering background with hands-on experience as a **Software Engineer Intern** at *Stratpoint Technologies* and a **Frontend Developer** at *Software Research Group*. Key core competencies include:
+> * **Frontend Developer** — Building responsive, functional web applications.
+> * **UI/UX Designer** — Crafting user-centered interfaces and intuitive digital experiences.
+> * **Prototyping** — Translating ideas and wireframes into high-fidelity interactive models.
+> * **Flowcharts** — Mapping complex system logic, workflows, and functional architectures.
 
 > 🚀 **Currently Deepening Knowledge**
 > Actively expanding expertise in **backend engineering** and **cybersecurity principles** to build secure, scalable, and high-performance applications.
