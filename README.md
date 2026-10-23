@@ -1,7 +1,7 @@
 # Hi there, I'm Althea Amor! 👋
 
 ### Software Engineer 
-📫 **Email:** [altheaasis18@gmail.com](mailto:altheaasis18@gmail.com) | [LinkedIn](https://linkedin.com/in/althea-amor-j-asis)[cite: 1]
+📫 **Email:** [altheaasis18@gmail.com](mailto:altheaasis18@gmail.com) | [LinkedIn](https://linkedin.com/in/althea-amor-j-asis)
 
 ---
 
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Lucidchart-1B2B34?style=for-the-badge&logo=lucidchart&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=draw.io&logoColor=white" />
 </p>
-* *Tools:* Figma, Canva, Lucidchart, Draw.io[cite: 2]
 
 ### 💻 Web & App Development
 <p>
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
-* *Core Technologies:* React, Next.js, Tailwind CSS, Bootstrap, FlutterFlow, Neon, Drizzle ORM, Clerk Authentication[cite: 2]
 
 ### 🚀 DevOps, Testing & Quality Assurance
 <p>
@@ -46,7 +44,6 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/mabl-FF6C37?style=for-the-badge&logo=mabl&logoColor=white" />
 </p>
-* *Tools & Frameworks:* Docker, Git, GitHub, GitHub Desktop, Playwright, mabl[cite: 2]
 
 ### 📜 Certifications
 * **mabl Skills Certification: Foundations**[cite: 2]
