@@ -1,10 +1,12 @@
 <div align="center">
 
 # Hi there, I'm Althea Amor! 👋
+### 💻 Software Engineer & Frontend Developer
 
-### 💻 Software Engineer
+<br/>
 
-📫 **Email:** [altheaasis18@gmail.com](mailto:altheaasis18@gmail.com) | 💼 **LinkedIn:** [linkedin.com/in/althea-amor-j-asis](https://linkedin.com/in/althea-amor-j-asis)
+[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/althea-amor-j-asis)[cite: 1]
 
 </div>
 
