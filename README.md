@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="mailto:altheaasis18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-005f73?style=for-the-badge&logo=gmail&logoColor=20B2AA" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/althea-amor-j-asis">
-    <img src="https://img.shields.io/badge/LinkedIn-Althea%20Amor-0a9396?style=for-the-badge&logo=linkedin&logoColor=94d2bd" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Althea%20Amor-111827?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" />
   </a>
 </p>
 ---
