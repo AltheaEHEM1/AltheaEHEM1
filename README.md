@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center" style="margin-bottom: 0px; padding-bottom: 0px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=220&section=header&text=Hi%20there,%20I'm%20Althea%20Amor!%20👋&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer&descSize=18&descAlign=50&descAlignY=62" alt="Header Banner" width="100%" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: -15px;">
   <a href="mailto:altheaasis18@gmail.com">
     <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" />
   </a>
