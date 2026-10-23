@@ -1,13 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Althea%20Amor!%20👋&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer&descSize=18&descAlign=50&descAlignY=62" alt="Header Banner" width="100%" />
+</p>
 
-# Hi there, I'm Althea Amor! 👋
-
-### 💻 Software Engineer
-
-[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Althea%20Amor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/althea-amor-j-asis)
-
-</div>
+<p align="center">
+  <a href="mailto:altheaasis18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-altheaasis18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/althea-amor-j-asis">
+    <img src="https://img.shields.io/badge/LinkedIn-Althea%20Amor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
