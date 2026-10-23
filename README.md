@@ -45,13 +45,6 @@
   <img src="https://img.shields.io/badge/mabl-FF6C37?style=for-the-badge&logo=mabl&logoColor=white" />
 </p>
 
-### 📜 Certifications
-* **mabl Skills Certification: Foundations**[cite: 2]
-* **Certified Associate in Application Defense (PUP-CAAD)**[cite: 2]
-* **Saylor Academy CS406: Information Security**[cite: 2]
-
----
-
 ## 📫 Contact Me
 
 * **Email:** altheaasis18@gmail.com[cite: 1]
