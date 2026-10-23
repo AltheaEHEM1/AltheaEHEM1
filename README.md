@@ -1,16 +1,33 @@
-<div align="center">
+<div align="center" style="
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0f172a 100%);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  border-radius: 16px;
+  padding: 40px 24px;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5), 0 0 20px rgba(56, 189, 248, 0.1);
+  color: #f8fafc;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+">
 
 # Hi there, I'm Althea Amor! 👋
-### 💻 Software Engineer & Frontend Developer
 
-<br/>
+<h3 style="
+  background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 10px;
+">💻 Software Engineer</h3>
 
-[![Email](https://img.shields.io/badge/Email-altheaasis18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altheaasis18@gmail.com)[cite: 1]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/althea-amor-j-asis)[cite: 1]
+<p style="margin-top: 24px; font-size: 15px;">
+  📫 <strong>Email:</strong> <a href="mailto:altheaasis18@gmail.com" style="color: #38bdf8; text-decoration: none; border-bottom: 1px dashed #38bdf8; transition: all 0.3s;">altheaasis18@gmail.com</a>
+  <span style="color: #64748b; margin: 0 10px;">|</span>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/althea-amor-j-asis" style="color: #38bdf8; text-decoration: none; border-bottom: 1px dashed #38bdf8; transition: all 0.3s;">linkedin.com/in/althea-amor-j-asis</a>
+</p>
 
 </div>
-
----
 
 ---
 
